@@ -1,0 +1,54 @@
+# Chatbot
+chatbot
+
+## Prerequisites
+1. Install XAMPP web server
+2. Any Editor (Preferably VS Code or Sublime Text)
+3. Any web browser with latest version
+
+## Languages and Technologies used
+1. HTML5/CSS3
+2. JavaScript (to create dynamically updating the messages)
+3. Bootstrap (An HTML, CSS, and JS library)
+4. XAMPP (A web server by Apache Friends)
+5. Jquery
+
+
+## Steps to run the project in your machine
+1. Download and install XAMPP in your machine
+2. Extract all the files and move it to the 'htdocs' folder of your XAMPP directory.
+3. Start the Apache and Mysql in your XAMPP control panel.
+4. Open your web browser and type 'localhost/phpmyadmin
+5. Open a new tab and type 'localhost/foldername' in the url of your browser
+6. Hurray! That's it!
+    
+### SOFTWARES USED
+  - XAMPP was installed on the Ubuntu 19.04 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/xampp/htdocs/myhmsp
+  - Visual Studio Code was used as a text editor.
+  - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/website was used as the url).
+  
+
+### Starting Apache And MySQL in XAMPP:
+  The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.
+  
+
+##chatbot Code files
+1. jquery.conv.JS
+2. jquey.conv.min.JS
+3. index.html(have mentioned chat bot)
+4.jquery.conv.css
+
+#changing the question
+1. For project to be be understood i have kept all the automatic generated responses functionality 
+if u need to edit the question go to the index file, they after the head we have chatbot code, edit the questions which are required.
+
+
+
+
+
+
+  
+
+
+
+
